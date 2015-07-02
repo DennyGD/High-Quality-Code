@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creation.Person", "Creation.Person\Creation.Person.csproj", "{DFBBC084-5AEF-45E3-9617-8154A5A140C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper", "Minesweeper\Minesweeper.csproj", "{132188BC-EBF8-4A16-9A47-F54BB52A2317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer", "Printer\Printer.csproj", "{A502F7C4-F4B3-428E-85B4-83C88F90FB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MozillaChecker", "MozillaChecker\MozillaChecker.csproj", "{57B60C4F-06F9-4295-B586-15C75CC9BCE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFBBC084-5AEF-45E3-9617-8154A5A140C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBBC084-5AEF-45E3-9617-8154A5A140C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBBC084-5AEF-45E3-9617-8154A5A140C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBBC084-5AEF-45E3-9617-8154A5A140C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132188BC-EBF8-4A16-9A47-F54BB52A2317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132188BC-EBF8-4A16-9A47-F54BB52A2317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132188BC-EBF8-4A16-9A47-F54BB52A2317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132188BC-EBF8-4A16-9A47-F54BB52A2317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A502F7C4-F4B3-428E-85B4-83C88F90FB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A502F7C4-F4B3-428E-85B4-83C88F90FB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A502F7C4-F4B3-428E-85B4-83C88F90FB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A502F7C4-F4B3-428E-85B4-83C88F90FB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B60C4F-06F9-4295-B586-15C75CC9BCE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B60C4F-06F9-4295-B586-15C75CC9BCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B60C4F-06F9-4295-B586-15C75CC9BCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B60C4F-06F9-4295-B586-15C75CC9BCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
