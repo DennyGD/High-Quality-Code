@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualityMethods", "QualityMethods\QualityMethods.csproj", "{B90593BB-E5CA-4A08-8572-2A2B663133D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExamCSharpII", "ExamCSharpII", "{73CE17F5-CC7A-4D35-9BC1-C12DAF624AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathProblem", "MathProblem\MathProblem.csproj", "{CC5063D5-14DC-4675-9DC2-73D4329411D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDifferences", "SumOfDifferences\SumOfDifferences.csproj", "{26773698-8235-4AE3-89F4-AAEEEDA1398D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90593BB-E5CA-4A08-8572-2A2B663133D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90593BB-E5CA-4A08-8572-2A2B663133D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90593BB-E5CA-4A08-8572-2A2B663133D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90593BB-E5CA-4A08-8572-2A2B663133D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5063D5-14DC-4675-9DC2-73D4329411D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5063D5-14DC-4675-9DC2-73D4329411D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5063D5-14DC-4675-9DC2-73D4329411D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5063D5-14DC-4675-9DC2-73D4329411D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26773698-8235-4AE3-89F4-AAEEEDA1398D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26773698-8235-4AE3-89F4-AAEEEDA1398D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26773698-8235-4AE3-89F4-AAEEEDA1398D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26773698-8235-4AE3-89F4-AAEEEDA1398D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC5063D5-14DC-4675-9DC2-73D4329411D8} = {73CE17F5-CC7A-4D35-9BC1-C12DAF624AFA}
+		{26773698-8235-4AE3-89F4-AAEEEDA1398D} = {73CE17F5-CC7A-4D35-9BC1-C12DAF624AFA}
+	EndGlobalSection
+EndGlobal
