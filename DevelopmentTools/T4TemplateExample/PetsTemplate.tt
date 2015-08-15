@@ -1,0 +1,20 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+
+<# string[] pets = new string[3]{"Cat", "Dog", "Parrot"}; #>
+<# foreach(var pet in pets) { #>
+	public class <#=pet#>
+	{
+		public <#=pet#>(string name)
+		{
+			this.Name = name;
+		}
+
+		public string Name {get; set;}
+	}
+
+<# } #>
