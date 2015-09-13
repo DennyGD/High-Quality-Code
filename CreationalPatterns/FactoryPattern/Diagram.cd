@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FactoryPattern.Products.Bulb" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEBAAAAAAAAAAAAAABAAAABAABAAA=</HashCode>
+      <FileName>Products\Bulb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.Products.BasicBulb" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\BasicBulb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.Products.FancyBulb" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\FancyBulb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.Factories.UnknownFactory" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Factories\UnknownFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.Factories.BulbFactory" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Factories\BulbFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FactoryPattern.Factories.PhilipsFactory" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Factories\PhilipsFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

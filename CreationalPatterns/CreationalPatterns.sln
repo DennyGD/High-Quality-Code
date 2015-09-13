@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{7BAC3263-3B05-4A3B-A93D-2F67E5B6A969}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Info", "Info", "{22598D0E-2224-42BF-83E4-72EFCFDED035}"
+	ProjectSection(SolutionItems) = preProject
+		Info\Info.md = Info\Info.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BAC3263-3B05-4A3B-A93D-2F67E5B6A969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAC3263-3B05-4A3B-A93D-2F67E5B6A969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAC3263-3B05-4A3B-A93D-2F67E5B6A969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAC3263-3B05-4A3B-A93D-2F67E5B6A969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
