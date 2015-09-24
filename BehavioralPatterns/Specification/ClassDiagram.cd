@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Specification.Specifications.AndSpecification&lt;T&gt;" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAABAAAAAQIAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Specifications\AndSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Specification.Specifications.CompositeSpecification&lt;T&gt;" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAACAAAABgAAAAAAAAAAA=</HashCode>
+      <FileName>Specifications\CompositeSpecification.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Specification.Specifications.ExpressionSpecification&lt;T&gt;" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAAA=</HashCode>
+      <FileName>Specifications\ExpressionSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Specification.Specifications.NotSpecification&lt;T&gt;" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAABAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Specifications\NotSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Specification.Specifications.OrSpecification&lt;T&gt;" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAABAAAAAQIAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Specifications\OrSpecification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Specification.Book" Collapsed="true">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAkAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Specification.Bookstore" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAEAACAAAQAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Bookstore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Specification.Specifications.ISpecification&lt;T&gt;" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAACAAAABgAAAAAAAAAAA=</HashCode>
+      <FileName>Specifications\ISpecification.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Specification.Genre" Collapsed="true">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Genre.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
